@@ -55,6 +55,7 @@ Apache Airflow (MWAA)
 Amazon S3
 Amazon Redshift
 PostgreSQL Hook
+
 🔐 Data Handling Strategy
 Raw data stored in S3 data bucket
 Processed data stored in Redshift
